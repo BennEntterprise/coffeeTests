@@ -1,0 +1,29 @@
+
+
+  app
+    wordCountAbove2Letters()
+undefined
+undefined
+undefined
+undefined
+      1) Rejects anything that is not a string
+      - Returns Zero for an empty string
+      - Returns a Number for a valid string
+    sentancesArrayify()
+      - does something that initially fails...
+    capitalizeTheEndOfWords()
+      - does something that initially fails...
+
+
+  0 passing (13ms)
+  4 pending
+  1 failing
+
+  1) app
+       wordCountAbove2Letters()
+         Rejects anything that is not a string:
+     AssertionError: expected undefined to be a function
+      at Context.<anonymous> (test\test.js:31:14)
+
+
+
